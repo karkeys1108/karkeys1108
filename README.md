@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Java*
 
 ## 💼 Experience
 
-- **Founder** of [Hutgen Info Tech](https://your-website-url.com) 
+- **Founder** of [Hutgen Info Tech]
   - Developing IT solutions, including mobile app development, web design, and data science projects.
-- **Creator** of [CODECAFE](https://www.instagram.com/CODECAFE) 
+- **Creator** of [Cod.e.cafe]
   - Shared over 50 web design templates and programming resources on Instagram, engaging a community of tech enthusiasts.
 - **Research Associate** at Igen
   - Worked on projects involving Sustainable Development Goals .
