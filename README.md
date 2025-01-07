@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **Java**, **Spring Boot**, and the **MERN stack**. I thrive on creating innovative solutions that tackle real-world problems and enhance user experiences.
 
-![Profile Image](https://avatars.githubusercontent.com/u/150359015?v=4) <!-- Replace with your image URL -->
-
 ## 🚀 About Me
 - 🌟 **Tech Enthusiast**:  Always eager to learn and explore new technologies.
 - 🎓 **B.E. in Electronics and Communication Engineering** from Sri Eshwar College of Engineering, Coimbatore.
