@@ -1,52 +1,84 @@
-# 👋 Hello, I'm Karthikeyan!
+# 👋 Hello, I'm **Karthikeyan M!**
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in **Java**, **Spring Boot**, and the **MERN stack**. I thrive on creating innovative solutions that tackle real-world problems and enhance user experiences.
+Welcome to my GitHub! I'm a passionate developer specializing in **Java**, **Spring Boot**, and the **MERN Stack**. I love crafting innovative solutions that solve real-world problems and elevate user experiences. 🚀
 
-## 🚀 About Me
-- 🌟 **Tech Enthusiast**:  Always eager to learn and explore new technologies.
-- 🎓 **B.E. in Electronics and Communication Engineering** from Sri Eshwar College of Engineering, Coimbatore.
-- 🌍 **Languages**: Fluent in English and Tamil, and have a basic knowledge of German.
+---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
 
-### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- 🎓 **B.E. in Electronics and Communication Engineering**  
+  Sri Eshwar College of Engineering, Coimbatore  
+- 💡 **Tech Enthusiast** — Always exploring emerging technologies  
+- 🌐 **Languages**: English, Tamil (fluent), German (basic)
 
-### Web Technologies
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+---
 
-### Databases
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+## 🛠️ Skills & Tools
 
-### Frameworks
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+### 💻 Programming Languages
 
-### Tools & Technologies
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+### 🧠 AI & Data Tools
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+### 🗃️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
 
 ## 💼 Experience
 
-- **Founder** of [Hutgen Info Tech]
-  - Developing IT solutions, including mobile app development, web design, and data science projects.
-- **Creator** of [Cod.e.cafe]
-  - Shared over 50 web design templates and programming resources on Instagram, engaging a community of tech enthusiasts.
-- **Research Associate** at Igen
-  - Worked on projects involving Sustainable Development Goals .
+### 👨‍💻 Founder — Hutgen Info Tech  
+💡 Building smart IT solutions across mobile, web, and data science.
 
-## 📫 Get in Touch
-Feel free to reach out for collaboration or just a chat! You can find me on:
-- [LinkedIn](www.linkedin.com/in/karthikeyan-m-12742b288)
+### 🧑‍🎨 Creator — Cod.e.cafe  
+📸 Shared 50+ web design templates and programming resources on Instagram, building a strong tech community.
 
-Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
+### 🔬 Research Associate — *Igen*  
+🌱 Worked on Sustainable Development Goals (SDGs) with a tech-driven approach.
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeyan-m-12742b288)
+- 📫 Drop a line — *Open to collaborations, freelance gigs, and exciting tech chats!*
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+
+Let’s connect and build something **amazing** together! 💻✨
