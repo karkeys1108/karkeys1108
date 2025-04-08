@@ -79,6 +79,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in **Java**, **Spr
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+> *"Your code is your voice in the world of machines. Make it meaningful."*
 
 Let’s connect and build something **amazing** together! 💻✨
